@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Optimistic Display;
+  src: url("./optimistic_display_md.ttf");
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
